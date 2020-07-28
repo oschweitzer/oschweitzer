@@ -1,16 +1,14 @@
-### Hi there 👋
+![Computer cat GIF](https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif)
 
-<!--
-**oschweitzer/oschweitzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋! My name is Olivier Schweitzer and I'm a full stack web engineer.
+I mostly work with JavaScript and TypeScript through Node.js (Express, NestJS) for backends and Angular and React for frontends. 
+I'm also interested in Docker deployment with Docker Swarm, Compose or Kubernetes. 
+I also develop some Python applications or scripts from time to time.
 
-Here are some ideas to get you started:
+I developed my own website with Gatsby.js, Contentful and Netlify, it's available [HERE](https://www.oschweitzer.dev/) :innocent:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+
+- [Linkedin](www.linkedin.com/in/olivier-schweitzer)
+- [Twitter](https://twitter.com/Oli_Schweitzer)
+- [Email](mailto:olivier.sch68@gmail.com?subject=[GitHub])
