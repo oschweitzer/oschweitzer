@@ -11,11 +11,17 @@ I also develop some Python applications or scripts from time to time.
 
 I developed my own website with Gatsby.js, Contentful and Netlify, it's available [HERE](https://www.oschweitzer.dev/) :innocent: 
 
-<a href="https://github.com/oschweitzer/oschweitzer">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=oschweitzer&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true alt="Olivier's GitHub Stats" />
-</a>
+<p align="center">
+  <a href="https://github.com/oschweitzer/oschweitzer">
+    <img src="https://github-readme-stats.vercel.app/api?username=oschweitzer&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true alt="Olivier's GitHub Stats" />
+  </a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oschweitzer&theme=tokyonight&layout=compact&hide=java)](https://github.com/oschweitzer/oschweitzer)
+<p align="center">
+  <a href="https://github.com/oschweitzer/oschweitzer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oschweitzer&theme=tokyonight&layout=compact&hide=java" alt="Olivier's Top Langs" />
+  </a>
+</p>
 
 
 ### Contact
