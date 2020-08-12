@@ -1,4 +1,6 @@
-![Computer cat GIF](https://media.giphy.com/media/dNgK7Ws7y176U/giphy.gif)
+<p align="center">
+  <img src="kaamelott.gif" alt="Kaamelott GIF" />
+</p>
 
 Hi 👋! 
 
@@ -13,7 +15,7 @@ I developed my own website with Gatsby.js, Contentful and Netlify, it's availabl
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=oschweitzer&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true alt="Olivier's GitHub Stats" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oschweitzer&layout=compact&hide=java)](https://github.com/oschweitzer/oschweitzer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oschweitzer&theme=tokyonight&layout=compact&hide=java)](https://github.com/oschweitzer/oschweitzer)
 
 
 ### Contact
