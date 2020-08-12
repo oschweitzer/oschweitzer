@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="kaamelott.gif" alt="Kaamelott GIF" />
+  <img src="https://github.com/oschweitzer/oschweitzer/blob/master/kaamelott.gif" alt="Kaamelott GIF" />
 </p>
 
 Hi 👋! 
