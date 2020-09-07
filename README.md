@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://github.com/oschweitzer/oschweitzer/blob/master/kaamelott.gif" alt="Kaamelott GIF" />
+  <img src="https://media.tenor.com/images/ceaf20d4d85f71bb1419f0a7a63ad8c8/tenor.gif" alt="Bongo cat with keyboard GIF" />
 </p>
+
+
 
 Hi 👋! 
 
