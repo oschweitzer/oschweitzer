@@ -21,10 +21,10 @@ I'm a full-stack tech lead moving towards DevOps and cloud architecture.
 | Project | What it is |
 | --- | --- |
 | [**synapse**](https://github.com/oschweitzer/synapse) | Personal dashboard: agenda, habits, finances and daily news. Next.js PWA on Supabase, free tiers only. |
-| [**cairn**](https://github.com/oschweitzer/cairn) | Notes and checklists with reminders and a private vault. One Expo repo for the Android app, the web PWA and the widget. |
-| [**music-part**](https://github.com/oschweitzer/music-part) | Desktop editor and player for scores and tablatures, in Rust, Tauri and Svelte. |
+| [**cairn**](https://github.com/oschweitzer/cairn) | Notes and checklists with reminders and a private vault. One repo for the Android app, the web PWA and the widget. |
+| [**music-part**](https://github.com/oschweitzer/music-part) | Desktop editor and player for scores and tablatures. |
 | [**ai-automatic-flow**](https://github.com/oschweitzer/ai-automatic-flow) | A Claude Code plugin that carries a Jira ticket to a reviewed merge request. |
-| [**pokemon-shop**](https://github.com/oschweitzer/pokemon-shop) | Pokémon shopping cart: React 19, Redux Toolkit, TanStack Query, Firebase Auth, 99 tests. |
+| [**pokemon-shop**](https://github.com/oschweitzer/pokemon-shop) | Pokémon shopping cart: React 19, TypeScript, Firebase Auth, 99 tests. |
 | [**woodcutter**](https://github.com/oschweitzer/woodcutter) | Small typed console logger for Node.js on winston 3. [On npm](https://www.npmjs.com/package/woodcutter). |
 | [**nestjs-woodcutter**](https://github.com/oschweitzer/nestjs-woodcutter) | NestJS module for woodcutter, NestJS 11 and 12. [On npm](https://www.npmjs.com/package/nestjs-woodcutter). |
 
