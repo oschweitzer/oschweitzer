@@ -10,8 +10,8 @@ I'm a full-stack tech lead moving towards DevOps and cloud architecture.
 
 ## What I work with
 
-- **Backend:** TypeScript on Node.js (NestJS, Express), Python, Rust
-- **Frontend and mobile:** React (Next.js, Vite), Angular, Svelte, Expo / React Native
+- **Backend:** TypeScript on Node.js (NestJS, Express), Python
+- **Frontend:** React (Next.js), Angular
 - **Cloud and DevOps:** Docker, Kubernetes, Helm, GitOps (Flux), Terraform, GitHub Actions and GitLab CI, GCP and AWS
 - **Data and auth:** PostgreSQL, Supabase, Firebase, Keycloak, Okta
 - **AI:** Claude Code (plugins, skills, agents), GitHub Copilot
