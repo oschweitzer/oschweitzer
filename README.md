@@ -1,33 +1,35 @@
-<p align="center">
-  <img src="https://media.tenor.com/images/ceaf20d4d85f71bb1419f0a7a63ad8c8/tenor.gif" alt="Bongo cat with keyboard GIF" />
-</p>
+# Hi, I'm Olivier 👋
 
+**Full-Stack & DevOps developer · Tech lead · AI engineer**, based in Lausanne (Switzerland).
 
+With AI as an accelerator, I focus on what makes the difference: designing the right architecture,
+steering AI agents like a team, and keeping systems reliable from cloud to production.
+I'm a full-stack tech lead moving towards DevOps and cloud architecture.
 
-Hi 👋! 
+🌐 [oschweitzer.dev](https://www.oschweitzer.dev/) · 💼 [LinkedIn](https://www.linkedin.com/in/olivier-schweitzer/) · ✉️ [Email](mailto:olivier.sch68@gmail.com?subject=[GitHub])
 
-My name is Olivier Schweitzer and I'm a full stack web engineer.
-I mostly work with JavaScript and TypeScript through Node.js (Express, NestJS) for backends and Angular and React for frontends.
-I'm also interested in Docker deployment with Docker Swarm, Compose or Kubernetes.
-I also develop some Python applications or scripts from time to time.
+## What I work with
 
-I developed my own website with Gatsby.js, Contentful and Netlify, it's available [HERE](https://www.oschweitzer.dev/) :innocent: 
+- **Backend:** TypeScript on Node.js (NestJS, Express), Python, Rust
+- **Frontend and mobile:** React (Next.js, Vite), Angular, Svelte, Expo / React Native
+- **Cloud and DevOps:** Docker, Kubernetes, Helm, GitOps (Flux), Terraform, GitHub Actions and GitLab CI, GCP and AWS
+- **Data and auth:** PostgreSQL, Supabase, Firebase, Keycloak, Okta
+- **AI:** Claude Code (plugins, skills, agents), GitHub Copilot
 
-<p align="center">
-  <a href="https://github.com/oschweitzer/oschweitzer">
-    <img src="https://github-readme-stats.vercel.app/api?username=oschweitzer&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true alt="Olivier's GitHub Stats" />
-  </a>
-</p>
+## Projects
 
-<p align="center">
-  <a href="https://github.com/oschweitzer/oschweitzer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oschweitzer&theme=tokyonight&layout=compact&hide=java" alt="Olivier's Top Langs" />
-  </a>
-</p>
+| Project | What it is |
+| --- | --- |
+| [**synapse**](https://github.com/oschweitzer/synapse) | Personal dashboard: agenda, habits, finances and daily news. Next.js PWA on Supabase, free tiers only. |
+| [**cairn**](https://github.com/oschweitzer/cairn) | Notes and checklists with reminders and a private vault. One Expo repo for the Android app, the web PWA and the widget. |
+| [**music-part**](https://github.com/oschweitzer/music-part) | Desktop editor and player for scores and tablatures, in Rust, Tauri and Svelte. |
+| [**ai-automatic-flow**](https://github.com/oschweitzer/ai-automatic-flow) | A Claude Code plugin that carries a Jira ticket to a reviewed merge request. |
+| [**pokemon-shop**](https://github.com/oschweitzer/pokemon-shop) | Pokémon shopping cart: React 19, Redux Toolkit, TanStack Query, Firebase Auth, 99 tests. |
+| [**woodcutter**](https://github.com/oschweitzer/woodcutter) | Small typed console logger for Node.js on winston 3. [On npm](https://www.npmjs.com/package/woodcutter). |
+| [**nestjs-woodcutter**](https://github.com/oschweitzer/nestjs-woodcutter) | NestJS module for woodcutter, NestJS 11 and 12. [On npm](https://www.npmjs.com/package/nestjs-woodcutter). |
 
+The source-available projects use the [PolyForm Noncommercial](https://polyformproject.org/licenses/noncommercial/1.0.0/)
+license: free to use, study and modify, but not for commercial use without my agreement.
 
-### Contact
-
-- [Linkedin](www.linkedin.com/in/olivier-schweitzer)
-- [Twitter](https://twitter.com/Oli_Schweitzer)
-- [Email](mailto:olivier.sch68@gmail.com?subject=[GitHub])
+My website is built with Next.js, Tailwind CSS and Motion, and deployed on Netlify:
+[my-resume-website](https://github.com/oschweitzer/my-resume-website).
